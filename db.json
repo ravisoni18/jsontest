@@ -1,28 +1,28 @@
 {
 
-                “d”: {
+                "d": {
 
-“icon”: “sap-icon://travel-expense”,
+"icon": "sap-icon://travel-expense",
 
-“info”: “Quarter Ends!”,
+"info": "Quarter Ends!",
 
-“infoState”: “Critical”,
+"infoState": "Critical",
 
-“number”: 43.433,
+"number": 43.433,
 
-“numberDigits”: 1
+"numberDigits": 1,
 
-                               “numberFactor”: “k”,
+"numberFactor": "k",
 
-“numberState”: “Positive”,
+"numberState": "Positive",
 
-“numberUnit”: “EUR”,
+"numberUnit": "EUR",
 
-“stateArrow”: “Up”,
+"stateArrow": "Up",
 
-“subtitle”: “Quarterly overview”,
+"subtitle": "Quarterly overview",
 
-“title”: “Travel Expenses”,
+"title": "Travel Expenses"
 
                      }
 
